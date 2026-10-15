@@ -1,0 +1,2 @@
+<!-- Context do Tomcat. Copiar para /opt/tomcat10/conf/Catalina/localhost/crm_mini.xml -->
+<Context path="/crm_mini" docBase="/opt/tomcat10/crm_mini_app" reloadable="true"/>
